@@ -2,7 +2,9 @@
 A CNN for Solar Panel Dust Detection
 
 <p align="center"><img src="data/workflow_all.png" width="90%" alt="" style="background-color:blue"/></p>
+<em> Workflow </em>
 <p align="center"><img src="data/solnet_arch.png" width="90%" alt="" style="background-color:white"/></p>
+<em> SolNet Architecture </em>
 
 ## Experimental Steps
 - Get the dataset from here: [Dataset](https://drive.google.com/drive/folders/12Q3MBI8SPw0vHsO_kkS5izkxw0F7tXx4?usp=sharing)
