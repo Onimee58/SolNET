@@ -1,5 +1,18 @@
 # SolNET
-A CNN for Solar Panel Dust Detection
+```
+Implementation of the paper "SolNet: A Convolutional Neural Network for Detecting Dust on Solar Panels"
+Authors:
+	Zubayar Mahatab Md Sakif,
+	Md. Saif Hassan Onim,
+	Adil Ahnaf,
+	Ahsan Kabir,
+	Rafina Afreen,
+	Sumaita Tanjim Hridy,
+	Mahtab Hossain,
+	Abul Kalam Azad,
+	Taskeed Jabid and
+	Md Sawkat Ali
+```
 
 <p align="center"><img src="data/workflow_all.png" width="90%" alt="" style="background-color:blue"/></p>
 <em align="center"> Workflow </em>
@@ -9,21 +22,13 @@ A CNN for Solar Panel Dust Detection
 ## Experimental Steps
 - Get the dataset from here: [Dataset](https://drive.google.com/drive/folders/12Q3MBI8SPw0vHsO_kkS5izkxw0F7tXx4?usp=sharing)
 
-- Keep the dataset in the dataset folder.
+- Keep the dataset in the dataset folder. You can keep ypur own dataset for testing purpose.
 
-- Run the “isr.py” from “utils”  folder and change the save location
+- Run the 'train.py' from 'utils' folder to train the model
 
-- Call the seed_restoration function and restore seeds for the images
+- Run 'evaluate.py' form 'utils' folder to generate loss and acc vs epoch graph.
 
-- Repeat the steps for 4x and 8x images
 
-- Run the “main.m” file from "m_files" and use the upsampling factor as argument.
-
-  from terminal if x = 2 or 4 or 8:
-  
-```
-matlab -batch "main x"
-```
 ## Pretrained SolNET
 - Get the model from here: [Model](https://drive.google.com/drive/folders/1HNJ4fB28DLvzuSoj75qdDAQv9BLeavBs?usp=share_link)
 
