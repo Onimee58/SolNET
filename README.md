@@ -2,8 +2,8 @@
 ```
 Implementation of the paper "SolNet: A Convolutional Neural Network for Detecting Dust on Solar Panels"
 Authors:
-	Zubayar Mahatab Md Sakif,
 	Md. Saif Hassan Onim,
+	Zubayar Mahatab Md Sakif,
 	Adil Ahnaf,
 	Ahsan Kabir,
 	Rafina Afreen,
@@ -39,8 +39,8 @@ Authors:
 ## Cite us with the following bibtex:
 ```
 @Article{SolNet2022,
-AUTHOR = {Zubayar Mahatab Md Sakif,
-	Md. Saif Hassan Onim,
+AUTHOR = {Md. Saif Hassan Onim,
+	Zubayar Mahatab Md Sakif,
 	Adil Ahnaf,
 	Ahsan Kabir,
 	Rafina Afreen,
