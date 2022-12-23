@@ -39,24 +39,25 @@ Authors:
 ## Cite us with the following bibtex:
 ```
 @Article{SolNet2022,
-AUTHOR = {Md. Saif Hassan Onim,
-	Zubayar Mahatab Md Sakif,
-	Adil Ahnaf,
-	Ahsan Kabir,
-	Rafina Afreen,
-	Sumaita Tanjim Hridy,
-	Mahtab Hossain,
-	Abul Kalam Azad,
-	Taskeed Jabid and
-	Md Sawkat Ali},
+AUTHOR = {Onim, Md Saif Hassan and
+	Sakif, Zubayar Mahatab Md and
+	Ahnaf, Adil and
+	Kabir, Ahsan and
+	Azad, Abul Kalam and
+	Oo, Amanullah Maung Than and
+	Afreen, Rafina and
+	Hridy, Sumaita Tanjim and
+	Hossain, Mahtab and
+	Jabid, Taskeed and
+	Ali, Md Sawkat},
 TITLE = {SolNet: A Convolutional Neural Network for Detecting Dust on Solar Panels},
 JOURNAL = {Energies},
-VOLUME = {HH},
-YEAR = {20TT},
-NUMBER = {DD},
-ARTICLE-NUMBER = {CCCC},
-URL = {https://www.mdpi.com/QQQQ},
-ISSN = {XXXX-YYYY},
-DOI = {AAAA/BBBB}
+VOLUME = {16},
+YEAR = {2023},
+NUMBER = {1},
+ARTICLE-NUMBER = {155},
+URL = {https://www.mdpi.com/1996-1073/16/1/155},
+ISSN = {1996-1073},
+DOI = {10.3390/en16010155}
 }
 ```
